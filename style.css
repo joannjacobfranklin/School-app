@@ -1,0 +1,17 @@
+#heading{
+    color: red;
+    font-family: serif;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+a{
+    text-decoration-line: none;
+   
+}
+h3{
+    color:"blue";
+    font-style:oblique;
+}
+html{
+    scroll-behavior: smooth;
+}
