@@ -1,44 +1,94 @@
-#heading{
+#heading {
     color: red;
     font-family: serif;
     text-decoration-line: underline;
     text-decoration-color: black;
 }
-a{
+
+a {
     text-decoration-line: none;
-   
+
 }
-h3{
-    color:"blue";
-    font-style:oblique;
-    
+
+h3 {
+    color: "blue";
+    font-style: oblique;
+
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
-#line{
+
+#line {
     width: 50px;
     height: 10px;
     color: black;
 }
-.achievement-head{
-    margin-bottom:  12px;
+
+.achievement-head {
+    margin-bottom: 12px;
     width: 90%;
     border-radius: 10px;
     height: 30px;
-   margin-right: 20px;
-   
+    margin-right: 20px;
+
     display: inline-block;
 }
-.achievement-head i{
+
+.achievement-head i {
     float: right;
-    
+
 }
-.row::after{
+
+.row::after {
     content: "";
     clear: both;
-    display:table;
+    display: table;
 }
-.row img{
+
+ss .row img {
     width: 10px;
+}
+
+.footer {
+    height: 20px;
+    background-color: white;
+    display: inline-block;
+}
+
+.modal-content {
+    margin-top: 100px;
+
+}
+
+.modal-img {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+p-modal {
+    margin-top: 10px;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+.modal-footer button {
+    margin-bottom: 5px;
+    margin-left: 100px;
+
+}
+
+#alumni-image {
+    height: 50%;
+    max-width: 90%;
+    
+}
+
+modal-p {
+    margin-top: 10px;
 }
